@@ -142,7 +142,7 @@ int main()
         is_in[i]=b->is_word_in_tree(reads[i]);
 
     /** TEST 2 -- IS THE TREE CORRECTLY SEARCHED **/
-
+    //test comment
 
     delete is_in;
 
