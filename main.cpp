@@ -143,6 +143,12 @@ int main()
 
     /** TEST 2 -- IS THE TREE CORRECTLY SEARCHED **/
     //test comment
+    
+    //My changes to the code
+    for (int i = 0; i < 5; i ++)
+    {
+    	cout<<"Is this differnt?"<<endl;
+    }
 
     delete is_in;
 
